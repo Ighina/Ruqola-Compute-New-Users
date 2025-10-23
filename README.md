@@ -80,7 +80,8 @@ For full instructions on connecting and using the cluster, please refer to the *
 
 **Mjölnir** is a smaller server provided by NTU. This resource is intended for **light-weight experiments**, such as developing proofs of concept, initial exploratory data analysis, and running smaller-scale experimental tests.
 
-* **Access Instructions:** For setup and deployment instructions, please refer to the guide at: [https://ighina.github.io/ruqola-server-deploy/](https://ighina.github.io/ruqola-server-deploy/)
+* **Access Instructions:** Coming Soon
+* **Usage**: For using the server refer to the following guide [https://ighina.github.io/ruqola-server-deploy/](https://ighina.github.io/ruqola-server-deploy/)
 
 ### Mjölnir Specifications
 
