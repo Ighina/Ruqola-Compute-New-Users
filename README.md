@@ -1,5 +1,3 @@
-# Ruqola-Compute-New-Users
-A guide for new users of the various compute available for the Ruqola project
 # Ruqola Project Compute Resources
 
 Welcome to the central information page for the compute resources available to the NUS, NTU, and Oxford University joint **Ruqola project**. This guide provides an overview of the available servers and instructions on how to access them.
