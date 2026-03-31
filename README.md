@@ -47,7 +47,7 @@ Before you can use the account (or apply for HPC access), you **must** complete 
 
 1.  Once your NUS account is fully active (Parts 1 & 2 are complete), you can apply for cluster access.
 2.  Fill in the form at: [https://nusit.nus.edu.sg/hpc/get-an-hpc-account/](https://nusit.nus.edu.sg/hpc/get-an-hpc-account/)
-3.  In the form, use the following project name: **`CFP01-SF-001`**
+3.  In the form, use the following project name: **`CFP03-SF-101`**
 
 #### Part 4: Connecting and User Guide
 
